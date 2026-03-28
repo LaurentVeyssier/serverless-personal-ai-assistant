@@ -1,3 +1,6 @@
+![assistant](serverless-assistant.png)
+
+
 # 🚀 Project: The "Zero-Cost" Personal AI Agent
 
 **An automated pipeline to capture, analyze, and archive information from your iPhone to Google Sheets using Gemini 2.5 flash**
